@@ -1,0 +1,17 @@
+#top{
+    text-align: center;
+}
+
+#top img{
+    border-radius: 200px;
+    width:300px;
+    height: 300px;
+}
+
+#down .que{
+    color:red;
+}
+
+#down .ans{
+    color: grey;
+}
